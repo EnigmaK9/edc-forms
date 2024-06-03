@@ -4,7 +4,7 @@ delete from  purchases;
 delete from  clients;
 
 -- Agregar nuevos clientes
-insert into clients (client_id, name, gender, register_date)
+insert into clients (client_id, name, gender, register_Date)
 values 
 (1, 'Carlos Ignacio Padilla Herrera', 'm', '2024-06-03'),
 (2, 'Luis Hernández Moreno', 'm', '2024-06-03'),
